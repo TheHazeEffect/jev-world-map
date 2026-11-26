@@ -1,0 +1,32 @@
+{
+  "name": "jev-world-map",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prompt-driven world map powered by Jev (TypeSafe System One) on Cloudflare Workers AI.",
+  "type": "module",
+  "scripts": {
+    "build:countries": "node scripts/build-countries.js",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "wrangler": "^4.144.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheHazeEffect/jev-world-map.git"
+  },
+  "keywords": [
+    "jev",
+    "typesafe",
+    "cloudflare-workers",
+    "workers-ai",
+    "d3",
+    "world-map",
+    "ai"
+  ]
+}

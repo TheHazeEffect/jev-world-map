@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jev World Map</title>
+    <meta name="description" content="Ask a yes/no question about every country and watch Jev answer it on a live map." />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Ccircle cx=%228%22 cy=%228%22 r=%227%22 fill=%22%233451d1%22/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="/styles.css" />
+
+    <!--
+      No build step: the browser resolves these bare imports straight from jsDelivr.
+      `import * as d3 from 'd3'` in our modules maps to the URL below.
+    -->
+    <script type="importmap">
+      {
+        "imports": {
+          "d3": "https://cdn.jsdelivr.net/npm/d3@7.9.0/+esm",
+          "topojson-client": "https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/+esm"
+        }
+      }
+    </script>
+    <script type="module" src="/js/app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>Jev World Map</h1>
+      <p class="tagline">Ask a yes/no question. Jev answers it for every UN member state, using only that country's data.</p>
+    </header>
+
+    <form id="prompt-form" class="prompt card" autocomplete="off">
+      <label for="prompt-input" class="visually-hidden">Prompt</label>
+      <div class="prompt-row">
+        <input id="prompt-input" name="prompt" type="text" placeholder="e.g. drives on the left" required />
+        <button id="run-button" type="submit" class="button-primary">Run</button>
+      </div>
+      <div id="example-chips" class="chips" aria-label="Example prompts"></div>
+    </form>
+
+    <main class="layout">
+      <section class="card map-card" aria-label="Map">
+        <div id="map" class="map"></div>
+        <ul class="legend" aria-label="Legend">
+          <li><span class="swatch swatch-true"></span>True <small>(darker = more confident)</small></li>
+          <li><span class="swatch swatch-false"></span>False</li>
+          <li><span class="swatch swatch-unsure"></span>Unsure</li>
+          <li><span class="swatch swatch-idle"></span>Pending / no data</li>
+          <li><span class="swatch swatch-error"></span>Error</li>
+        </ul>
+        <p id="run-status" class="run-status" aria-live="polite">Pick a prompt and press Run.</p>
+      </section>
+    </main>
+
+    <div id="tooltip" class="tooltip" role="status" hidden></div>
+  </body>
+</html>

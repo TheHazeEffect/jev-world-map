@@ -1,0 +1,27 @@
+// Cloudflare Worker config: one Worker serves both the API and the static site.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jev-world-map",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-09-01",
+
+  // Static assets (HTML/CSS/JS/TopoJSON) are served straight from ./public.
+  // Requests that don't match a file (e.g. /api/*) fall through to the Worker.
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+
+  // Non-secret settings. Secrets (CLOUDFLARE_ACCOUNT_ID, CLOUDFLARE_API_TOKEN)
+  // live in .dev.vars locally and in `wrangler secret put` for production.
+  "vars": {
+    "MOCK_JEV": "false",
+    "JEV_CONCURRENCY": "10",
+    "JEV_TIMEOUT_MS": "60000",
+    "JEV_MAX_RETRIES": "3",
+    // Countries per Jev request. "0" = all countries in a single request.
+    "JEV_BATCH_SIZE": "0"
+  },
+
+  "observability": { "enabled": true }
+}

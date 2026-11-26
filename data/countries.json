@@ -1,0 +1,5992 @@
+{
+  "generatedAt": "2026-09-30T04:21:02.045Z",
+  "source": "REST Countries v5 (https://restcountries.com)",
+  "count": 193,
+  "countries": [
+    {
+      "iso3": "AFG",
+      "ccn3": "004",
+      "name": "Afghanistan",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 43844000,
+      "areaKm2": 652230,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Dari",
+        "Pashto",
+        "Turkmen"
+      ],
+      "currencies": [
+        {
+          "code": "AFN",
+          "name": "Afghan afghani"
+        }
+      ],
+      "borders": [
+        "IRN",
+        "PAK",
+        "TKM",
+        "UZB",
+        "TJK",
+        "CHN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        65,
+        33
+      ]
+    },
+    {
+      "iso3": "ALB",
+      "ccn3": "008",
+      "name": "Albania",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 2335930,
+      "areaKm2": 28748,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Albanian"
+      ],
+      "currencies": [
+        {
+          "code": "ALL",
+          "name": "Albanian lek"
+        }
+      ],
+      "borders": [
+        "MNE",
+        "GRC",
+        "MKD",
+        "UNK"
+      ],
+      "unMember": true,
+      "lngLat": [
+        20,
+        41
+      ]
+    },
+    {
+      "iso3": "DZA",
+      "ccn3": "012",
+      "name": "Algeria",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 47400000,
+      "areaKm2": 2381741,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "DZD",
+          "name": "Algerian dinar"
+        }
+      ],
+      "borders": [
+        "TUN",
+        "LBY",
+        "NER",
+        "ESH",
+        "MRT",
+        "MLI",
+        "MAR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        3,
+        28
+      ]
+    },
+    {
+      "iso3": "AND",
+      "ccn3": "020",
+      "name": "Andorra",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 90105,
+      "areaKm2": 468,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Catalan"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "FRA",
+        "ESP"
+      ],
+      "unMember": true,
+      "lngLat": [
+        1.5,
+        42.5
+      ]
+    },
+    {
+      "iso3": "AGO",
+      "ccn3": "024",
+      "name": "Angola",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 38778554,
+      "areaKm2": 1246700,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "AOA",
+          "name": "Angolan kwanza"
+        }
+      ],
+      "borders": [
+        "COG",
+        "COD",
+        "ZMB",
+        "NAM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        18.5,
+        -12.5
+      ]
+    },
+    {
+      "iso3": "ATG",
+      "ccn3": "028",
+      "name": "Antigua and Barbuda",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 106365,
+      "areaKm2": 442,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -61.8,
+        17.05
+      ]
+    },
+    {
+      "iso3": "ARG",
+      "ccn3": "032",
+      "name": "Argentina",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 46466688,
+      "areaKm2": 2780400,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Guarani",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "ARS",
+          "name": "Argentine peso"
+        }
+      ],
+      "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -64,
+        -34
+      ]
+    },
+    {
+      "iso3": "ARM",
+      "ccn3": "051",
+      "name": "Armenia",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 3103900,
+      "areaKm2": 29743,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Armenian"
+      ],
+      "currencies": [
+        {
+          "code": "AMD",
+          "name": "Armenian dram"
+        }
+      ],
+      "borders": [
+        "AZE",
+        "GEO",
+        "IRN",
+        "TUR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        45,
+        40
+      ]
+    },
+    {
+      "iso3": "AUS",
+      "ccn3": "036",
+      "name": "Australia",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 27921150,
+      "areaKm2": 7692024,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        133,
+        -27
+      ]
+    },
+    {
+      "iso3": "AUT",
+      "ccn3": "040",
+      "name": "Austria",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 9217573,
+      "areaKm2": 83871,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "CZE",
+        "DEU",
+        "HUN",
+        "ITA",
+        "LIE",
+        "SVK",
+        "SVN",
+        "CHE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        13.33333333,
+        47.33333333
+      ]
+    },
+    {
+      "iso3": "AZE",
+      "ccn3": "031",
+      "name": "Azerbaijan",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 10273450,
+      "areaKm2": 86600,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Azerbaijani"
+      ],
+      "currencies": [
+        {
+          "code": "AZN",
+          "name": "Azerbaijani manat"
+        }
+      ],
+      "borders": [
+        "ARM",
+        "GEO",
+        "IRN",
+        "RUS",
+        "TUR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        47.5,
+        40.5
+      ]
+    },
+    {
+      "iso3": "BHS",
+      "ccn3": "044",
+      "name": "Bahamas",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 398165,
+      "areaKm2": 13943,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "BSD",
+          "name": "Bahamian dollar"
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -77.3963,
+        25.0343
+      ]
+    },
+    {
+      "iso3": "BHR",
+      "ccn3": "048",
+      "name": "Bahrain",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 1603260,
+      "areaKm2": 765,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "BHD",
+          "name": "Bahraini dinar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        50.55,
+        26
+      ]
+    },
+    {
+      "iso3": "BGD",
+      "ccn3": "050",
+      "name": "Bangladesh",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 169828911,
+      "areaKm2": 147570,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Bengali"
+      ],
+      "currencies": [
+        {
+          "code": "BDT",
+          "name": "Bangladeshi taka"
+        }
+      ],
+      "borders": [
+        "MMR",
+        "IND"
+      ],
+      "unMember": true,
+      "lngLat": [
+        90,
+        24
+      ]
+    },
+    {
+      "iso3": "BRB",
+      "ccn3": "052",
+      "name": "Barbados",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 261692,
+      "areaKm2": 430,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "BBD",
+          "name": "Barbadian dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -59.53333333,
+        13.16666666
+      ]
+    },
+    {
+      "iso3": "BLR",
+      "ccn3": "112",
+      "name": "Belarus",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 9056080,
+      "areaKm2": 207600,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Belarusian",
+        "Russian"
+      ],
+      "currencies": [
+        {
+          "code": "BYN",
+          "name": "Belarusian ruble"
+        }
+      ],
+      "borders": [
+        "LVA",
+        "LTU",
+        "POL",
+        "RUS",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        28,
+        53
+      ]
+    },
+    {
+      "iso3": "BEL",
+      "ccn3": "056",
+      "name": "Belgium",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 11942772,
+      "areaKm2": 30528,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "German",
+        "French",
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "FRA",
+        "DEU",
+        "LUX",
+        "NLD"
+      ],
+      "unMember": true,
+      "lngLat": [
+        4,
+        50.83333333
+      ]
+    },
+    {
+      "iso3": "BLZ",
+      "ccn3": "084",
+      "name": "Belize",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 418982,
+      "areaKm2": 22966,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Belize Kriol",
+        "English",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "BZD",
+          "name": "Belize dollar"
+        }
+      ],
+      "borders": [
+        "GTM",
+        "MEX"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -88.75,
+        17.25
+      ]
+    },
+    {
+      "iso3": "BEN",
+      "ccn3": "204",
+      "name": "Benin",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 13551992,
+      "areaKm2": 112622,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "BFA",
+        "NER",
+        "NGA",
+        "TGO"
+      ],
+      "unMember": true,
+      "lngLat": [
+        2.25,
+        9.5
+      ]
+    },
+    {
+      "iso3": "BTN",
+      "ccn3": "064",
+      "name": "Bhutan",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 790718,
+      "areaKm2": 38394,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "Dzongkha"
+      ],
+      "currencies": [
+        {
+          "code": "BTN",
+          "name": "Bhutanese ngultrum"
+        },
+        {
+          "code": "INR",
+          "name": "Indian rupee"
+        }
+      ],
+      "borders": [
+        "CHN",
+        "IND"
+      ],
+      "unMember": true,
+      "lngLat": [
+        90.5,
+        27.5
+      ]
+    },
+    {
+      "iso3": "BOL",
+      "ccn3": "068",
+      "name": "Bolivia",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 11365333,
+      "areaKm2": 1098581,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Aymara",
+        "Guarani",
+        "Quechua",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "BOB",
+          "name": "Bolivian boliviano"
+        }
+      ],
+      "borders": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "PRY",
+        "PER"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -65,
+        -17
+      ]
+    },
+    {
+      "iso3": "BIH",
+      "ccn3": "070",
+      "name": "Bosnia and Herzegovina",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3412000,
+      "areaKm2": 51209,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Bosnian",
+        "Croatian",
+        "Serbian"
+      ],
+      "currencies": [
+        {
+          "code": "BAM",
+          "name": "Bosnia and Herzegovina convertible mark"
+        }
+      ],
+      "borders": [
+        "HRV",
+        "MNE",
+        "SRB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        18,
+        44
+      ]
+    },
+    {
+      "iso3": "BWA",
+      "ccn3": "072",
+      "name": "Botswana",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 2359609,
+      "areaKm2": 582000,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Tswana"
+      ],
+      "currencies": [
+        {
+          "code": "BWP",
+          "name": "Botswana pula"
+        }
+      ],
+      "borders": [
+        "NAM",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        24,
+        -22
+      ]
+    },
+    {
+      "iso3": "BRA",
+      "ccn3": "076",
+      "name": "Brazil",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 214211951,
+      "areaKm2": 8515767,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "BRL",
+          "name": "Brazilian real"
+        }
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "COL",
+        "GUF",
+        "GUY",
+        "PRY",
+        "PER",
+        "SUR",
+        "URY",
+        "VEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -55,
+        -10
+      ]
+    },
+    {
+      "iso3": "BRN",
+      "ccn3": "096",
+      "name": "Brunei",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 458600,
+      "areaKm2": 5765,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Malay"
+      ],
+      "currencies": [
+        {
+          "code": "BND",
+          "name": "Brunei dollar"
+        },
+        {
+          "code": "SGD",
+          "name": "Singapore dollar"
+        }
+      ],
+      "borders": [
+        "MYS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        114.66666666,
+        4.5
+      ]
+    },
+    {
+      "iso3": "BGR",
+      "ccn3": "100",
+      "name": "Bulgaria",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 6423207,
+      "areaKm2": 110879,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Bulgarian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "GRC",
+        "MKD",
+        "ROU",
+        "SRB",
+        "TUR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        25,
+        43
+      ]
+    },
+    {
+      "iso3": "BFA",
+      "ccn3": "854",
+      "name": "Burkina Faso",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 22489126,
+      "areaKm2": 272967,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "BEN",
+        "CIV",
+        "GHA",
+        "MLI",
+        "NER",
+        "TGO"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -2,
+        13
+      ]
+    },
+    {
+      "iso3": "BDI",
+      "ccn3": "108",
+      "name": "Burundi",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 12332788,
+      "areaKm2": 27834,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Rundi"
+      ],
+      "currencies": [
+        {
+          "code": "BIF",
+          "name": "Burundian franc"
+        }
+      ],
+      "borders": [
+        "COD",
+        "RWA",
+        "TZA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        -3.5
+      ]
+    },
+    {
+      "iso3": "CPV",
+      "ccn3": "132",
+      "name": "Cabo Verde",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 491233,
+      "areaKm2": 4033,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "CVE",
+          "name": "Cape Verdean escudo"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -23.0418,
+        16.5388
+      ]
+    },
+    {
+      "iso3": "KHM",
+      "ccn3": "116",
+      "name": "Cambodia",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 17816143,
+      "areaKm2": 181035,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Khmer"
+      ],
+      "currencies": [
+        {
+          "code": "KHR",
+          "name": "Cambodian riel"
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [
+        "LAO",
+        "THA",
+        "VNM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        105,
+        13
+      ]
+    },
+    {
+      "iso3": "CMR",
+      "ccn3": "120",
+      "name": "Cameroon",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 29442327,
+      "areaKm2": 475442,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc"
+        }
+      ],
+      "borders": [
+        "CAF",
+        "TCD",
+        "COG",
+        "GNQ",
+        "GAB",
+        "NGA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        12,
+        6
+      ]
+    },
+    {
+      "iso3": "CAN",
+      "ccn3": "124",
+      "name": "Canada",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 41798407,
+      "areaKm2": 9984670,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "CAD",
+          "name": "Canadian dollar"
+        }
+      ],
+      "borders": [
+        "USA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -95,
+        60
+      ]
+    },
+    {
+      "iso3": "CAF",
+      "ccn3": "140",
+      "name": "Central African Republic",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 5513282,
+      "areaKm2": 622984,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Sango"
+      ],
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc"
+        }
+      ],
+      "borders": [
+        "CMR",
+        "TCD",
+        "COD",
+        "COG",
+        "SSD",
+        "SDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        21,
+        7
+      ]
+    },
+    {
+      "iso3": "TCD",
+      "ccn3": "148",
+      "name": "Chad",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 20031602,
+      "areaKm2": 1284000,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc"
+        }
+      ],
+      "borders": [
+        "CMR",
+        "CAF",
+        "LBY",
+        "NER",
+        "NGA",
+        "SDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        19,
+        15
+      ]
+    },
+    {
+      "iso3": "CHL",
+      "ccn3": "152",
+      "name": "Chile",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 20150948,
+      "areaKm2": 756102,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "CLP",
+          "name": "Chilean peso"
+        }
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "PER"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -71,
+        -30
+      ]
+    },
+    {
+      "iso3": "CHN",
+      "ccn3": "156",
+      "name": "China",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 1404890000,
+      "areaKm2": 9706961,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Chinese"
+      ],
+      "currencies": [
+        {
+          "code": "CNY",
+          "name": "Chinese yuan"
+        }
+      ],
+      "borders": [
+        "AFG",
+        "BTN",
+        "MMR",
+        "HKG",
+        "IND",
+        "KAZ",
+        "NPL",
+        "PRK",
+        "KGZ",
+        "LAO",
+        "MAC",
+        "MNG",
+        "PAK",
+        "RUS",
+        "TJK",
+        "VNM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        105,
+        35
+      ]
+    },
+    {
+      "iso3": "COL",
+      "ccn3": "170",
+      "name": "Colombia",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 53399171,
+      "areaKm2": 1141748,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "COP",
+          "name": "Colombian peso"
+        }
+      ],
+      "borders": [
+        "BRA",
+        "ECU",
+        "PAN",
+        "PER",
+        "VEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -72,
+        4
+      ]
+    },
+    {
+      "iso3": "COM",
+      "ccn3": "174",
+      "name": "Comoros",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 944388,
+      "areaKm2": 1862,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "French",
+        "Ngazidja Comorian"
+      ],
+      "currencies": [
+        {
+          "code": "KMF",
+          "name": "Comorian franc"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        44.25,
+        -12.16666666
+      ]
+    },
+    {
+      "iso3": "COG",
+      "ccn3": "178",
+      "name": "Congo",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 6332961,
+      "areaKm2": 342000,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Kongo",
+        "Lingala"
+      ],
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc"
+        }
+      ],
+      "borders": [
+        "AGO",
+        "CMR",
+        "CAF",
+        "COD",
+        "GAB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        15,
+        -1
+      ]
+    },
+    {
+      "iso3": "CRI",
+      "ccn3": "188",
+      "name": "Costa Rica",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 5160700,
+      "areaKm2": 51100,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "CRC",
+          "name": "Costa Rican colón"
+        }
+      ],
+      "borders": [
+        "NIC",
+        "PAN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -84,
+        10
+      ]
+    },
+    {
+      "iso3": "HRV",
+      "ccn3": "191",
+      "name": "Croatia",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 3874993,
+      "areaKm2": 56594,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Croatian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "BIH",
+        "HUN",
+        "MNE",
+        "SRB",
+        "SVN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        15.5,
+        45.16666666
+      ]
+    },
+    {
+      "iso3": "CUB",
+      "ccn3": "192",
+      "name": "Cuba",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 9434593,
+      "areaKm2": 109884,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "CUP",
+          "name": "Cuban peso"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -80,
+        21.5
+      ]
+    },
+    {
+      "iso3": "CYP",
+      "ccn3": "196",
+      "name": "Cyprus",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 983000,
+      "areaKm2": 9251,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Greek",
+        "Turkish"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        33,
+        35
+      ]
+    },
+    {
+      "iso3": "CZE",
+      "ccn3": "203",
+      "name": "Czechia",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 10903655,
+      "areaKm2": 78865,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Czech",
+        "Slovak"
+      ],
+      "currencies": [
+        {
+          "code": "CZK",
+          "name": "Czech koruna"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+      ],
+      "unMember": true,
+      "lngLat": [
+        15.5,
+        49.75
+      ]
+    },
+    {
+      "iso3": "DNK",
+      "ccn3": "208",
+      "name": "Denmark",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 6032304,
+      "areaKm2": 43094,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Danish"
+      ],
+      "currencies": [
+        {
+          "code": "DKK",
+          "name": "Danish krone"
+        }
+      ],
+      "borders": [
+        "DEU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        10,
+        56
+      ]
+    },
+    {
+      "iso3": "DJI",
+      "ccn3": "262",
+      "name": "Djibouti",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 1066809,
+      "areaKm2": 23200,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "DJF",
+          "name": "Djiboutian franc"
+        }
+      ],
+      "borders": [
+        "ERI",
+        "ETH",
+        "SOM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        43,
+        11.5
+      ]
+    },
+    {
+      "iso3": "DMA",
+      "ccn3": "212",
+      "name": "Dominica",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 65514,
+      "areaKm2": 751,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -61.33333333,
+        15.41666666
+      ]
+    },
+    {
+      "iso3": "DOM",
+      "ccn3": "214",
+      "name": "Dominican Republic",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 11532151,
+      "areaKm2": 48671,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "DOP",
+          "name": "Dominican peso"
+        }
+      ],
+      "borders": [
+        "HTI"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -70.66666666,
+        19
+      ]
+    },
+    {
+      "iso3": "COD",
+      "ccn3": "180",
+      "name": "DRC",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 116452000,
+      "areaKm2": 2344858,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Kongo",
+        "Lingala",
+        "Luba-Lulua",
+        "Swahili"
+      ],
+      "currencies": [
+        {
+          "code": "CDF",
+          "name": "Congolese franc"
+        }
+      ],
+      "borders": [
+        "AGO",
+        "BDI",
+        "CAF",
+        "COG",
+        "RWA",
+        "SSD",
+        "TZA",
+        "UGA",
+        "ZMB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        25,
+        0
+      ]
+    },
+    {
+      "iso3": "ECU",
+      "ccn3": "218",
+      "name": "Ecuador",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 18135478,
+      "areaKm2": 276841,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [
+        "COL",
+        "PER"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -77.5,
+        -2
+      ]
+    },
+    {
+      "iso3": "EGY",
+      "ccn3": "818",
+      "name": "Egypt",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 108613296,
+      "areaKm2": 1002450,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "EGP",
+          "name": "Egyptian pound"
+        }
+      ],
+      "borders": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        27
+      ]
+    },
+    {
+      "iso3": "SLV",
+      "ccn3": "222",
+      "name": "El Salvador",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 6029976,
+      "areaKm2": 21041,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [
+        "GTM",
+        "HND"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -88.91666666,
+        13.83333333
+      ]
+    },
+    {
+      "iso3": "GNQ",
+      "ccn3": "226",
+      "name": "Equatorial Guinea",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 1795834,
+      "areaKm2": 28051,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Portuguese",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc"
+        }
+      ],
+      "borders": [
+        "CMR",
+        "GAB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        10,
+        2
+      ]
+    },
+    {
+      "iso3": "ERI",
+      "ccn3": "232",
+      "name": "Eritrea",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 3682669,
+      "areaKm2": 117600,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "English",
+        "Tigrinya"
+      ],
+      "currencies": [
+        {
+          "code": "ERN",
+          "name": "Eritrean nakfa"
+        }
+      ],
+      "borders": [
+        "DJI",
+        "ETH",
+        "SDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        39,
+        15
+      ]
+    },
+    {
+      "iso3": "EST",
+      "ccn3": "233",
+      "name": "Estonia",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 1360745,
+      "areaKm2": 45227,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Estonian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "LVA",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        26,
+        59
+      ]
+    },
+    {
+      "iso3": "SWZ",
+      "ccn3": "748",
+      "name": "Eswatini",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 1235549,
+      "areaKm2": 17364,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Swazi"
+      ],
+      "currencies": [
+        {
+          "code": "SZL",
+          "name": "Swazi lilangeni"
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand"
+        }
+      ],
+      "borders": [
+        "MOZ",
+        "ZAF"
+      ],
+      "unMember": true,
+      "lngLat": [
+        31.5,
+        -26.5
+      ]
+    },
+    {
+      "iso3": "ETH",
+      "ccn3": "231",
+      "name": "Ethiopia",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 111652998,
+      "areaKm2": 1104300,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Amharic"
+      ],
+      "currencies": [
+        {
+          "code": "ETB",
+          "name": "Ethiopian birr"
+        }
+      ],
+      "borders": [
+        "DJI",
+        "ERI",
+        "KEN",
+        "SOM",
+        "SSD",
+        "SDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        38,
+        8
+      ]
+    },
+    {
+      "iso3": "FJI",
+      "ccn3": "242",
+      "name": "Fiji",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 902623,
+      "areaKm2": 18272,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Fijian",
+        "Fiji Hindi"
+      ],
+      "currencies": [
+        {
+          "code": "FJD",
+          "name": "Fijian dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        178.065,
+        -17.7134
+      ]
+    },
+    {
+      "iso3": "FIN",
+      "ccn3": "246",
+      "name": "Finland",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5659324,
+      "areaKm2": 338424,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Finnish",
+        "Swedish"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "NOR",
+        "SWE",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        26,
+        64
+      ]
+    },
+    {
+      "iso3": "FRA",
+      "ccn3": "250",
+      "name": "France",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 69081996,
+      "areaKm2": 551695,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "AND",
+        "BEL",
+        "DEU",
+        "ITA",
+        "LUX",
+        "MCO",
+        "ESP",
+        "CHE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        2,
+        46
+      ]
+    },
+    {
+      "iso3": "GAB",
+      "ccn3": "266",
+      "name": "Gabon",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 2469296,
+      "areaKm2": 267668,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc"
+        }
+      ],
+      "borders": [
+        "CMR",
+        "COG",
+        "GNQ"
+      ],
+      "unMember": true,
+      "lngLat": [
+        11.75,
+        -1
+      ]
+    },
+    {
+      "iso3": "GMB",
+      "ccn3": "270",
+      "name": "Gambia",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 2422712,
+      "areaKm2": 10689,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GMD",
+          "name": "Gambian dalasi"
+        }
+      ],
+      "borders": [
+        "SEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -16.56666666,
+        13.46666666
+      ]
+    },
+    {
+      "iso3": "GEO",
+      "ccn3": "268",
+      "name": "Georgia",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 3657000,
+      "areaKm2": 69700,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Georgian"
+      ],
+      "currencies": [
+        {
+          "code": "GEL",
+          "name": "Georgian lari"
+        }
+      ],
+      "borders": [
+        "ARM",
+        "AZE",
+        "RUS",
+        "TUR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        43.5,
+        42
+      ]
+    },
+    {
+      "iso3": "DEU",
+      "ccn3": "276",
+      "name": "Germany",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 83298787,
+      "areaKm2": 357114,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FRA",
+        "LUX",
+        "NLD",
+        "POL",
+        "CHE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        9,
+        51
+      ]
+    },
+    {
+      "iso3": "GHA",
+      "ccn3": "288",
+      "name": "Ghana",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 34378768,
+      "areaKm2": 238533,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GHS",
+          "name": "Ghanaian cedi"
+        }
+      ],
+      "borders": [
+        "BFA",
+        "CIV",
+        "TGO"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -2,
+        8
+      ]
+    },
+    {
+      "iso3": "GRC",
+      "ccn3": "300",
+      "name": "Greece",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10372335,
+      "areaKm2": 131990,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Greek"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "ALB",
+        "BGR",
+        "TUR",
+        "MKD"
+      ],
+      "unMember": true,
+      "lngLat": [
+        22,
+        39
+      ]
+    },
+    {
+      "iso3": "GRD",
+      "ccn3": "308",
+      "name": "Grenada",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 109021,
+      "areaKm2": 344,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -61.66666666,
+        12.11666666
+      ]
+    },
+    {
+      "iso3": "GTM",
+      "ccn3": "320",
+      "name": "Guatemala",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 18406359,
+      "areaKm2": 108889,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "GTQ",
+          "name": "Guatemalan quetzal"
+        }
+      ],
+      "borders": [
+        "BLZ",
+        "SLV",
+        "HND",
+        "MEX"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -90.25,
+        15.5
+      ]
+    },
+    {
+      "iso3": "GIN",
+      "ccn3": "324",
+      "name": "Guinea",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 17521167,
+      "areaKm2": 245857,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "GNF",
+          "name": "Guinean franc"
+        }
+      ],
+      "borders": [
+        "CIV",
+        "GNB",
+        "LBR",
+        "MLI",
+        "SEN",
+        "SLE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -10,
+        11
+      ]
+    },
+    {
+      "iso3": "GNB",
+      "ccn3": "624",
+      "name": "Guinea-Bissau",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 1890252,
+      "areaKm2": 36125,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Portuguese",
+        "Upper Guinea Crioulo"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "GIN",
+        "SEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -15,
+        12
+      ]
+    },
+    {
+      "iso3": "GUY",
+      "ccn3": "328",
+      "name": "Guyana",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 956044,
+      "areaKm2": 214969,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GYD",
+          "name": "Guyanese dollar"
+        }
+      ],
+      "borders": [
+        "BRA",
+        "SUR",
+        "VEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -59,
+        5
+      ]
+    },
+    {
+      "iso3": "HTI",
+      "ccn3": "332",
+      "name": "Haiti",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 11867032,
+      "areaKm2": 27750,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Haitian Creole"
+      ],
+      "currencies": [
+        {
+          "code": "HTG",
+          "name": "Haitian gourde"
+        }
+      ],
+      "borders": [
+        "DOM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -72.41666666,
+        19
+      ]
+    },
+    {
+      "iso3": "HND",
+      "ccn3": "340",
+      "name": "Honduras",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 10186738,
+      "areaKm2": 112492,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "HNL",
+          "name": "Honduran lempira"
+        }
+      ],
+      "borders": [
+        "GTM",
+        "SLV",
+        "NIC"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -86.5,
+        15
+      ]
+    },
+    {
+      "iso3": "HUN",
+      "ccn3": "348",
+      "name": "Hungary",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 9488428,
+      "areaKm2": 93028,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Hungarian"
+      ],
+      "currencies": [
+        {
+          "code": "HUF",
+          "name": "Hungarian forint"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "HRV",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        20,
+        47
+      ]
+    },
+    {
+      "iso3": "ISL",
+      "ccn3": "352",
+      "name": "Iceland",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 396500,
+      "areaKm2": 103000,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Icelandic"
+      ],
+      "currencies": [
+        {
+          "code": "ISK",
+          "name": "Icelandic króna"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -18,
+        65
+      ]
+    },
+    {
+      "iso3": "IND",
+      "ccn3": "356",
+      "name": "India",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 1429404000,
+      "areaKm2": 3287590,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Hindi",
+        "Tamil"
+      ],
+      "currencies": [
+        {
+          "code": "INR",
+          "name": "Indian rupee"
+        }
+      ],
+      "borders": [
+        "BGD",
+        "BTN",
+        "MMR",
+        "CHN",
+        "NPL",
+        "PAK"
+      ],
+      "unMember": true,
+      "lngLat": [
+        77,
+        20
+      ]
+    },
+    {
+      "iso3": "IDN",
+      "ccn3": "360",
+      "name": "Indonesia",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 288315089,
+      "areaKm2": 1904569,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Indonesian"
+      ],
+      "currencies": [
+        {
+          "code": "IDR",
+          "name": "Indonesian rupiah"
+        }
+      ],
+      "borders": [
+        "TLS",
+        "MYS",
+        "PNG"
+      ],
+      "unMember": true,
+      "lngLat": [
+        120,
+        -5
+      ]
+    },
+    {
+      "iso3": "IRN",
+      "ccn3": "364",
+      "name": "Iran",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 87134000,
+      "areaKm2": 1648195,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Persian"
+      ],
+      "currencies": [
+        {
+          "code": "IRR",
+          "name": "Iranian rial"
+        }
+      ],
+      "borders": [
+        "AFG",
+        "ARM",
+        "AZE",
+        "IRQ",
+        "PAK",
+        "TUR",
+        "TKM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        53,
+        32
+      ]
+    },
+    {
+      "iso3": "IRQ",
+      "ccn3": "368",
+      "name": "Iraq",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 46118793,
+      "areaKm2": 438317,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "Aramaic",
+        "Central Kurdish"
+      ],
+      "currencies": [
+        {
+          "code": "IQD",
+          "name": "Iraqi dinar"
+        }
+      ],
+      "borders": [
+        "IRN",
+        "JOR",
+        "KWT",
+        "SAU",
+        "SYR",
+        "TUR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        44,
+        33
+      ]
+    },
+    {
+      "iso3": "IRL",
+      "ccn3": "372",
+      "name": "Ireland",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5525600,
+      "areaKm2": 70273,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Irish"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "GBR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -8,
+        53
+      ]
+    },
+    {
+      "iso3": "ISR",
+      "ccn3": "376",
+      "name": "Israel",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 10305000,
+      "areaKm2": 20770,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "Hebrew"
+      ],
+      "currencies": [
+        {
+          "code": "ILS",
+          "name": "Israeli new shekel"
+        }
+      ],
+      "borders": [
+        "EGY",
+        "JOR",
+        "LBN",
+        "PSE",
+        "SYR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        35.13,
+        31.47
+      ]
+    },
+    {
+      "iso3": "ITA",
+      "ccn3": "380",
+      "name": "Italy",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 58943673,
+      "areaKm2": 301336,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Italian",
+        "Catalan"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "FRA",
+        "SMR",
+        "SVN",
+        "CHE",
+        "VAT"
+      ],
+      "unMember": true,
+      "lngLat": [
+        12.83333333,
+        42.83333333
+      ]
+    },
+    {
+      "iso3": "CIV",
+      "ccn3": "384",
+      "name": "Ivory Coast",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 33293101,
+      "areaKm2": 322463,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "BFA",
+        "GHA",
+        "GIN",
+        "LBR",
+        "MLI"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -5,
+        8
+      ]
+    },
+    {
+      "iso3": "JAM",
+      "ccn3": "388",
+      "name": "Jamaica",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 2774538,
+      "areaKm2": 10991,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Jamaican Patois"
+      ],
+      "currencies": [
+        {
+          "code": "JMD",
+          "name": "Jamaican dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -77.5,
+        18.25
+      ]
+    },
+    {
+      "iso3": "JPN",
+      "ccn3": "392",
+      "name": "Japan",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 122650000,
+      "areaKm2": 377930,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Japanese"
+      ],
+      "currencies": [
+        {
+          "code": "JPY",
+          "name": "Japanese yen"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        138,
+        36
+      ]
+    },
+    {
+      "iso3": "JOR",
+      "ccn3": "400",
+      "name": "Jordan",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 11937000,
+      "areaKm2": 89342,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "JOD",
+          "name": "Jordanian dinar"
+        }
+      ],
+      "borders": [
+        "IRQ",
+        "ISR",
+        "PSE",
+        "SAU",
+        "SYR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        36,
+        31
+      ]
+    },
+    {
+      "iso3": "KAZ",
+      "ccn3": "398",
+      "name": "Kazakhstan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 20604819,
+      "areaKm2": 2724900,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Kazakh",
+        "Russian"
+      ],
+      "currencies": [
+        {
+          "code": "KZT",
+          "name": "Kazakhstani tenge"
+        }
+      ],
+      "borders": [
+        "CHN",
+        "KGZ",
+        "RUS",
+        "TKM",
+        "UZB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        66.9237,
+        48.0196
+      ]
+    },
+    {
+      "iso3": "KEN",
+      "ccn3": "404",
+      "name": "Kenya",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 54227015,
+      "areaKm2": 580367,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "currencies": [
+        {
+          "code": "KES",
+          "name": "Kenyan shilling"
+        }
+      ],
+      "borders": [
+        "ETH",
+        "SOM",
+        "SSD",
+        "TZA",
+        "UGA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        38,
+        1
+      ]
+    },
+    {
+      "iso3": "KIR",
+      "ccn3": "296",
+      "name": "Kiribati",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 120740,
+      "areaKm2": 811,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Gilbertese"
+      ],
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar"
+        },
+        {
+          "code": "KID",
+          "name": "Kiribati dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        173,
+        1.41666666
+      ]
+    },
+    {
+      "iso3": "KWT",
+      "ccn3": "414",
+      "name": "Kuwait",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 4881254,
+      "areaKm2": 17818,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "KWD",
+          "name": "Kuwaiti dinar"
+        }
+      ],
+      "borders": [
+        "IRQ",
+        "SAU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        45.75,
+        29.5
+      ]
+    },
+    {
+      "iso3": "KGZ",
+      "ccn3": "417",
+      "name": "Kyrgyzstan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 7404300,
+      "areaKm2": 199951,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Kyrgyz",
+        "Russian"
+      ],
+      "currencies": [
+        {
+          "code": "KGS",
+          "name": "Kyrgyzstani som"
+        }
+      ],
+      "borders": [
+        "CHN",
+        "KAZ",
+        "TJK",
+        "UZB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        75,
+        41
+      ]
+    },
+    {
+      "iso3": "LAO",
+      "ccn3": "418",
+      "name": "Laos",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 7745000,
+      "areaKm2": 236800,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Lao"
+      ],
+      "currencies": [
+        {
+          "code": "LAK",
+          "name": "Lao kip"
+        }
+      ],
+      "borders": [
+        "MMR",
+        "KHM",
+        "CHN",
+        "THA",
+        "VNM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        105,
+        18
+      ]
+    },
+    {
+      "iso3": "LVA",
+      "ccn3": "428",
+      "name": "Latvia",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 1832100,
+      "areaKm2": 64559,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Latvian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "BLR",
+        "EST",
+        "LTU",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        25,
+        57
+      ]
+    },
+    {
+      "iso3": "LBN",
+      "ccn3": "422",
+      "name": "Lebanon",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 5895466,
+      "areaKm2": 10452,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "LBP",
+          "name": "Lebanese pound"
+        }
+      ],
+      "borders": [
+        "ISR",
+        "SYR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        35.83333333,
+        33.83333333
+      ]
+    },
+    {
+      "iso3": "LSO",
+      "ccn3": "426",
+      "name": "Lesotho",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 2116427,
+      "areaKm2": 30355,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Sotho"
+      ],
+      "currencies": [
+        {
+          "code": "LSL",
+          "name": "Lesotho loti"
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand"
+        }
+      ],
+      "borders": [
+        "ZAF"
+      ],
+      "unMember": true,
+      "lngLat": [
+        28.5,
+        -29.5
+      ]
+    },
+    {
+      "iso3": "LBR",
+      "ccn3": "430",
+      "name": "Liberia",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 5248621,
+      "areaKm2": 111369,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "LRD",
+          "name": "Liberian dollar"
+        }
+      ],
+      "borders": [
+        "GIN",
+        "CIV",
+        "SLE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -9.5,
+        6.5
+      ]
+    },
+    {
+      "iso3": "LBY",
+      "ccn3": "434",
+      "name": "Libya",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 7539852,
+      "areaKm2": 1759540,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "LYD",
+          "name": "Libyan dinar"
+        }
+      ],
+      "borders": [
+        "DZA",
+        "TCD",
+        "EGY",
+        "NER",
+        "SDN",
+        "TUN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        17,
+        25
+      ]
+    },
+    {
+      "iso3": "LIE",
+      "ccn3": "438",
+      "name": "Liechtenstein",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 41237,
+      "areaKm2": 160,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "German"
+      ],
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "CHE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        9.53333333,
+        47.26666666
+      ]
+    },
+    {
+      "iso3": "LTU",
+      "ccn3": "440",
+      "name": "Lithuania",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 2887761,
+      "areaKm2": 65300,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Lithuanian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "BLR",
+        "LVA",
+        "POL",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        24,
+        56
+      ]
+    },
+    {
+      "iso3": "LUX",
+      "ccn3": "442",
+      "name": "Luxembourg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 690959,
+      "areaKm2": 2586,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "German",
+        "French",
+        "Luxembourgish"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "BEL",
+        "FRA",
+        "DEU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        6.16666666,
+        49.75
+      ]
+    },
+    {
+      "iso3": "MDG",
+      "ccn3": "450",
+      "name": "Madagascar",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 32658977,
+      "areaKm2": 587041,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Malagasy"
+      ],
+      "currencies": [
+        {
+          "code": "MGA",
+          "name": "Malagasy ariary"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        47,
+        -20
+      ]
+    },
+    {
+      "iso3": "MWI",
+      "ccn3": "454",
+      "name": "Malawi",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 21201635,
+      "areaKm2": 118484,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Chichewa"
+      ],
+      "currencies": [
+        {
+          "code": "MWK",
+          "name": "Malawian kwacha"
+        }
+      ],
+      "borders": [
+        "MOZ",
+        "TZA",
+        "ZMB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        34,
+        -13.5
+      ]
+    },
+    {
+      "iso3": "MYS",
+      "ccn3": "458",
+      "name": "Malaysia",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 34389400,
+      "areaKm2": 330803,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Malay"
+      ],
+      "currencies": [
+        {
+          "code": "MYR",
+          "name": "Malaysian ringgit"
+        }
+      ],
+      "borders": [
+        "BRN",
+        "IDN",
+        "THA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        112.5,
+        2.5
+      ]
+    },
+    {
+      "iso3": "MDV",
+      "ccn3": "462",
+      "name": "Maldives",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 515132,
+      "areaKm2": 300,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Divehi"
+      ],
+      "currencies": [
+        {
+          "code": "MVR",
+          "name": "Maldivian rufiyaa"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        73,
+        3.25
+      ]
+    },
+    {
+      "iso3": "MLI",
+      "ccn3": "466",
+      "name": "Mali",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 23929000,
+      "areaKm2": 1240192,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "DZA",
+        "BFA",
+        "GIN",
+        "CIV",
+        "MRT",
+        "NER",
+        "SEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -4,
+        17
+      ]
+    },
+    {
+      "iso3": "MLT",
+      "ccn3": "470",
+      "name": "Malta",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 588254,
+      "areaKm2": 316,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Maltese"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        14.3754,
+        35.9375
+      ]
+    },
+    {
+      "iso3": "MHL",
+      "ccn3": "584",
+      "name": "Marshall Islands",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 37548,
+      "areaKm2": 181,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English",
+        "Marshallese"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        168,
+        9
+      ]
+    },
+    {
+      "iso3": "MRT",
+      "ccn3": "478",
+      "name": "Mauritania",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 4927532,
+      "areaKm2": 1030700,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "MRU",
+          "name": "Mauritanian ouguiya"
+        }
+      ],
+      "borders": [
+        "DZA",
+        "MLI",
+        "SEN",
+        "ESH"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -12,
+        20
+      ]
+    },
+    {
+      "iso3": "MUS",
+      "ccn3": "480",
+      "name": "Mauritius",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 1240316,
+      "areaKm2": 2040,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "French",
+        "Mauritian Creole"
+      ],
+      "currencies": [
+        {
+          "code": "MUR",
+          "name": "Mauritian rupee"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        57.55,
+        -20.28333333
+      ]
+    },
+    {
+      "iso3": "MEX",
+      "ccn3": "484",
+      "name": "Mexico",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 131231919,
+      "areaKm2": 1964375,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "MXN",
+          "name": "Mexican peso"
+        }
+      ],
+      "borders": [
+        "BLZ",
+        "GTM",
+        "USA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -102,
+        23
+      ]
+    },
+    {
+      "iso3": "FSM",
+      "ccn3": "583",
+      "name": "Micronesia",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 75817,
+      "areaKm2": 702,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        158.25,
+        6.91666666
+      ]
+    },
+    {
+      "iso3": "MDA",
+      "ccn3": "498",
+      "name": "Moldova",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 2365600,
+      "areaKm2": 33846,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Romanian"
+      ],
+      "currencies": [
+        {
+          "code": "MDL",
+          "name": "Moldovan leu"
+        }
+      ],
+      "borders": [
+        "ROU",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        29,
+        47
+      ]
+    },
+    {
+      "iso3": "MCO",
+      "ccn3": "492",
+      "name": "Monaco",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 38857,
+      "areaKm2": 2.02,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "FRA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        7.4,
+        43.73333333
+      ]
+    },
+    {
+      "iso3": "MNG",
+      "ccn3": "496",
+      "name": "Mongolia",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 3591120,
+      "areaKm2": 1564110,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Mongolian"
+      ],
+      "currencies": [
+        {
+          "code": "MNT",
+          "name": "Mongolian tögrög"
+        }
+      ],
+      "borders": [
+        "CHN",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        105,
+        46
+      ]
+    },
+    {
+      "iso3": "MNE",
+      "ccn3": "499",
+      "name": "Montenegro",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 622902,
+      "areaKm2": 13812,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Montenegrin"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "ALB",
+        "BIH",
+        "HRV",
+        "UNK",
+        "SRB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        19.3,
+        42.5
+      ]
+    },
+    {
+      "iso3": "MAR",
+      "ccn3": "504",
+      "name": "Morocco",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 37254695,
+      "areaKm2": 446550,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "Standard Moroccan Tamazight"
+      ],
+      "currencies": [
+        {
+          "code": "MAD",
+          "name": "Moroccan dirham"
+        }
+      ],
+      "borders": [
+        "DZA",
+        "ESH",
+        "ESP"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -5,
+        32
+      ]
+    },
+    {
+      "iso3": "MOZ",
+      "ccn3": "508",
+      "name": "Mozambique",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 34958973,
+      "areaKm2": 801590,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "MZN",
+          "name": "Mozambican metical"
+        }
+      ],
+      "borders": [
+        "MWI",
+        "ZAF",
+        "SWZ",
+        "TZA",
+        "ZMB",
+        "ZWE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        35,
+        -18.25
+      ]
+    },
+    {
+      "iso3": "MMR",
+      "ccn3": "104",
+      "name": "Myanmar",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 51375327,
+      "areaKm2": 676578,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Burmese"
+      ],
+      "currencies": [
+        {
+          "code": "MMK",
+          "name": "Burmese kyat"
+        }
+      ],
+      "borders": [
+        "BGD",
+        "CHN",
+        "IND",
+        "LAO",
+        "THA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        98,
+        22
+      ]
+    },
+    {
+      "iso3": "NAM",
+      "ccn3": "516",
+      "name": "Namibia",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 3022401,
+      "areaKm2": 825615,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Afrikaans",
+        "German",
+        "English",
+        "Herero",
+        "Hai‖om",
+        "Kwangali",
+        "Lozi",
+        "Ndonga",
+        "Tswana"
+      ],
+      "currencies": [
+        {
+          "code": "NAD",
+          "name": "Namibian dollar"
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand"
+        }
+      ],
+      "borders": [
+        "AGO",
+        "BWA",
+        "ZAF",
+        "ZMB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        17,
+        -22
+      ]
+    },
+    {
+      "iso3": "NRU",
+      "ccn3": "520",
+      "name": "Nauru",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 11680,
+      "areaKm2": 21,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Nauruan"
+      ],
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        166.91666666,
+        -0.53333333
+      ]
+    },
+    {
+      "iso3": "NPL",
+      "ccn3": "524",
+      "name": "Nepal",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 30034040,
+      "areaKm2": 147181,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "Nepali"
+      ],
+      "currencies": [
+        {
+          "code": "NPR",
+          "name": "Nepalese rupee"
+        }
+      ],
+      "borders": [
+        "CHN",
+        "IND"
+      ],
+      "unMember": true,
+      "lngLat": [
+        84,
+        28
+      ]
+    },
+    {
+      "iso3": "NLD",
+      "ccn3": "528",
+      "name": "Netherlands",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 18153271,
+      "areaKm2": 41850,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "BEL",
+        "DEU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        5.75,
+        52.5
+      ]
+    },
+    {
+      "iso3": "NZL",
+      "ccn3": "554",
+      "name": "New Zealand",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 4993923,
+      "areaKm2": 270467,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Maori",
+        "New Zealand Sign Language"
+      ],
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        174,
+        -41
+      ]
+    },
+    {
+      "iso3": "NIC",
+      "ccn3": "558",
+      "name": "Nicaragua",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 6874748,
+      "areaKm2": 130373,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "NIO",
+          "name": "Nicaraguan córdoba"
+        }
+      ],
+      "borders": [
+        "CRI",
+        "HND"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -85,
+        13
+      ]
+    },
+    {
+      "iso3": "NER",
+      "ccn3": "562",
+      "name": "Niger",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 27522750,
+      "areaKm2": 1267000,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "DZA",
+        "BEN",
+        "BFA",
+        "TCD",
+        "LBY",
+        "MLI",
+        "NGA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        8,
+        16
+      ]
+    },
+    {
+      "iso3": "NGA",
+      "ccn3": "566",
+      "name": "Nigeria",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 223800000,
+      "areaKm2": 923768,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "NGN",
+          "name": "Nigerian naira"
+        }
+      ],
+      "borders": [
+        "BEN",
+        "CMR",
+        "TCD",
+        "NER"
+      ],
+      "unMember": true,
+      "lngLat": [
+        8,
+        10
+      ]
+    },
+    {
+      "iso3": "PRK",
+      "ccn3": "408",
+      "name": "North Korea",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 25950000,
+      "areaKm2": 120538,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Korean"
+      ],
+      "currencies": [
+        {
+          "code": "KPW",
+          "name": "North Korean won"
+        }
+      ],
+      "borders": [
+        "CHN",
+        "KOR",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        127,
+        40
+      ]
+    },
+    {
+      "iso3": "MKD",
+      "ccn3": "807",
+      "name": "North Macedonia",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 1836713,
+      "areaKm2": 25713,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Macedonian"
+      ],
+      "currencies": [
+        {
+          "code": "MKD",
+          "name": "Macedonian denar"
+        }
+      ],
+      "borders": [
+        "ALB",
+        "BGR",
+        "GRC",
+        "UNK",
+        "SRB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        22,
+        41.83333333
+      ]
+    },
+    {
+      "iso3": "NOR",
+      "ccn3": "578",
+      "name": "Norway",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 5636904,
+      "areaKm2": 323802,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Norwegian Nynorsk",
+        "Norwegian Bokmål",
+        "Northern Sami",
+        "Lule Sami",
+        "Southern Sami"
+      ],
+      "currencies": [
+        {
+          "code": "NOK",
+          "name": "Norwegian krone"
+        }
+      ],
+      "borders": [
+        "FIN",
+        "SWE",
+        "RUS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        10,
+        62
+      ]
+    },
+    {
+      "iso3": "OMN",
+      "ccn3": "512",
+      "name": "Oman",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 5398645,
+      "areaKm2": 309500,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "OMR",
+          "name": "Omani rial"
+        }
+      ],
+      "borders": [
+        "SAU",
+        "ARE",
+        "YEM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        57,
+        21
+      ]
+    },
+    {
+      "iso3": "PAK",
+      "ccn3": "586",
+      "name": "Pakistan",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 241499431,
+      "areaKm2": 881912,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Urdu"
+      ],
+      "currencies": [
+        {
+          "code": "PKR",
+          "name": "Pakistani rupee"
+        }
+      ],
+      "borders": [
+        "AFG",
+        "CHN",
+        "IND",
+        "IRN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        70,
+        30
+      ]
+    },
+    {
+      "iso3": "PLW",
+      "ccn3": "585",
+      "name": "Palau",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "population": 16733,
+      "areaKm2": 459,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English",
+        "Palauan"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        134.5,
+        7.5
+      ]
+    },
+    {
+      "iso3": "PAN",
+      "ccn3": "591",
+      "name": "Panama",
+      "region": "Americas",
+      "subregion": "Central America",
+      "population": 4064780,
+      "areaKm2": 75417,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PAB",
+          "name": "Panamanian balboa"
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [
+        "COL",
+        "CRI"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -80,
+        9
+      ]
+    },
+    {
+      "iso3": "PNG",
+      "ccn3": "598",
+      "name": "Papua New Guinea",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 11781559,
+      "areaKm2": 462840,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Hiri Motu",
+        "Tok Pisin"
+      ],
+      "currencies": [
+        {
+          "code": "PGK",
+          "name": "Papua New Guinean kina"
+        }
+      ],
+      "borders": [
+        "IDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        147,
+        -6
+      ]
+    },
+    {
+      "iso3": "PRY",
+      "ccn3": "600",
+      "name": "Paraguay",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 6109644,
+      "areaKm2": 406752,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Guarani",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PYG",
+          "name": "Paraguayan guaraní"
+        }
+      ],
+      "borders": [
+        "ARG",
+        "BOL",
+        "BRA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -58,
+        -23
+      ]
+    },
+    {
+      "iso3": "PER",
+      "ccn3": "604",
+      "name": "Peru",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 34157732,
+      "areaKm2": 1285216,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Aymara",
+        "Quechua",
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "PEN",
+          "name": "Peruvian sol"
+        }
+      ],
+      "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "COL",
+        "ECU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -76,
+        -10
+      ]
+    },
+    {
+      "iso3": "PHL",
+      "ccn3": "608",
+      "name": "Philippines",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 114849400,
+      "areaKm2": 342353,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English",
+        "Filipino"
+      ],
+      "currencies": [
+        {
+          "code": "PHP",
+          "name": "Philippine peso"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        122,
+        13
+      ]
+    },
+    {
+      "iso3": "POL",
+      "ccn3": "616",
+      "name": "Poland",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 37232000,
+      "areaKm2": 312679,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Polish"
+      ],
+      "currencies": [
+        {
+          "code": "PLN",
+          "name": "Polish złoty"
+        }
+      ],
+      "borders": [
+        "BLR",
+        "CZE",
+        "DEU",
+        "LTU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        20,
+        52
+      ]
+    },
+    {
+      "iso3": "PRT",
+      "ccn3": "620",
+      "name": "Portugal",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 11424031,
+      "areaKm2": 92090,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "ESP"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -8,
+        39.5
+      ]
+    },
+    {
+      "iso3": "QAT",
+      "ccn3": "634",
+      "name": "Qatar",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 3370611,
+      "areaKm2": 11586,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "QAR",
+          "name": "Qatari riyal"
+        }
+      ],
+      "borders": [
+        "SAU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        51.25,
+        25.5
+      ]
+    },
+    {
+      "iso3": "ROU",
+      "ccn3": "642",
+      "name": "Romania",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 19041322,
+      "areaKm2": 238391,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Romanian"
+      ],
+      "currencies": [
+        {
+          "code": "RON",
+          "name": "Romanian leu"
+        }
+      ],
+      "borders": [
+        "BGR",
+        "HUN",
+        "MDA",
+        "SRB",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        25,
+        46
+      ]
+    },
+    {
+      "iso3": "RUS",
+      "ccn3": "643",
+      "name": "Russia",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 146028325,
+      "areaKm2": 17098242,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Russian"
+      ],
+      "currencies": [
+        {
+          "code": "RUB",
+          "name": "Russian ruble"
+        }
+      ],
+      "borders": [
+        "AZE",
+        "BLR",
+        "CHN",
+        "EST",
+        "FIN",
+        "GEO",
+        "KAZ",
+        "PRK",
+        "LVA",
+        "LTU",
+        "MNG",
+        "NOR",
+        "POL",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        100,
+        60
+      ]
+    },
+    {
+      "iso3": "RWA",
+      "ccn3": "646",
+      "name": "Rwanda",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 14418145,
+      "areaKm2": 26338,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "English",
+        "French",
+        "Kinyarwanda"
+      ],
+      "currencies": [
+        {
+          "code": "RWF",
+          "name": "Rwandan franc"
+        }
+      ],
+      "borders": [
+        "BDI",
+        "COD",
+        "TZA",
+        "UGA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        -2
+      ]
+    },
+    {
+      "iso3": "KNA",
+      "ccn3": "659",
+      "name": "Saint Kitts and Nevis",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 54338,
+      "areaKm2": 261,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -62.75,
+        17.33333333
+      ]
+    },
+    {
+      "iso3": "LCA",
+      "ccn3": "662",
+      "name": "Saint Lucia",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 184100,
+      "areaKm2": 616,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -60.96666666,
+        13.88333333
+      ]
+    },
+    {
+      "iso3": "VCT",
+      "ccn3": "670",
+      "name": "Saint Vincent and the Grenadines",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 109296,
+      "areaKm2": 389,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -61.2,
+        13.25
+      ]
+    },
+    {
+      "iso3": "WSM",
+      "ccn3": "882",
+      "name": "Samoa",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 205557,
+      "areaKm2": 2842,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Samoan"
+      ],
+      "currencies": [
+        {
+          "code": "WST",
+          "name": "Samoan tālā"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -172.33333333,
+        -13.58333333
+      ]
+    },
+    {
+      "iso3": "SMR",
+      "ccn3": "674",
+      "name": "San Marino",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 34172,
+      "areaKm2": 61,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Italian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "ITA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        12.41666666,
+        43.76666666
+      ]
+    },
+    {
+      "iso3": "STP",
+      "ccn3": "678",
+      "name": "São Tomé and Príncipe",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 220372,
+      "areaKm2": 964,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Portuguese"
+      ],
+      "currencies": [
+        {
+          "code": "STN",
+          "name": "São Tomé and Príncipe dobra"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        7,
+        1
+      ]
+    },
+    {
+      "iso3": "SAU",
+      "ccn3": "682",
+      "name": "Saudi Arabia",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 35325004,
+      "areaKm2": 2149690,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "SAR",
+          "name": "Saudi riyal"
+        }
+      ],
+      "borders": [
+        "IRQ",
+        "JOR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "ARE",
+        "YEM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        45,
+        25
+      ]
+    },
+    {
+      "iso3": "SEN",
+      "ccn3": "686",
+      "name": "Senegal",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 19575061,
+      "areaKm2": 196722,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "GMB",
+        "GIN",
+        "GNB",
+        "MLI",
+        "MRT"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -14,
+        14
+      ]
+    },
+    {
+      "iso3": "SRB",
+      "ccn3": "688",
+      "name": "Serbia",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "population": 6532019,
+      "areaKm2": 88361,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Serbian"
+      ],
+      "currencies": [
+        {
+          "code": "RSD",
+          "name": "Serbian dinar"
+        }
+      ],
+      "borders": [
+        "BIH",
+        "BGR",
+        "HRV",
+        "HUN",
+        "UNK",
+        "MKD",
+        "MNE",
+        "ROU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        21,
+        44
+      ]
+    },
+    {
+      "iso3": "SYC",
+      "ccn3": "690",
+      "name": "Seychelles",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 123565,
+      "areaKm2": 452,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Seychellois Creole",
+        "English",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "SCR",
+          "name": "Seychellois rupee"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        55.66666666,
+        -4.58333333
+      ]
+    },
+    {
+      "iso3": "SLE",
+      "ccn3": "694",
+      "name": "Sierra Leone",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 8460512,
+      "areaKm2": 71740,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "SLE",
+          "name": "Sierra Leonean leone"
+        }
+      ],
+      "borders": [
+        "GIN",
+        "LBR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -11.5,
+        8.5
+      ]
+    },
+    {
+      "iso3": "SGP",
+      "ccn3": "702",
+      "name": "Singapore",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 6208500,
+      "areaKm2": 710,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Chinese",
+        "Malay",
+        "Tamil"
+      ],
+      "currencies": [
+        {
+          "code": "SGD",
+          "name": "Singapore dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        103.8,
+        1.36666666
+      ]
+    },
+    {
+      "iso3": "SVK",
+      "ccn3": "703",
+      "name": "Slovakia",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 5403009,
+      "areaKm2": 49037,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Slovak"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "CZE",
+        "HUN",
+        "POL",
+        "UKR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        19.5,
+        48.66666666
+      ]
+    },
+    {
+      "iso3": "SVN",
+      "ccn3": "705",
+      "name": "Slovenia",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "population": 2136385,
+      "areaKm2": 20273,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Slovenian"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "HRV",
+        "ITA",
+        "HUN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        14.81666666,
+        46.11666666
+      ]
+    },
+    {
+      "iso3": "SLB",
+      "ccn3": "090",
+      "name": "Solomon Islands",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 828857,
+      "areaKm2": 28896,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "SBD",
+          "name": "Solomon Islands dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        159,
+        -8
+      ]
+    },
+    {
+      "iso3": "SOM",
+      "ccn3": "706",
+      "name": "Somalia",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 20305907,
+      "areaKm2": 637657,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "Somali"
+      ],
+      "currencies": [
+        {
+          "code": "SOS",
+          "name": "Somali shilling"
+        }
+      ],
+      "borders": [
+        "DJI",
+        "ETH",
+        "KEN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        49,
+        10
+      ]
+    },
+    {
+      "iso3": "ZAF",
+      "ccn3": "710",
+      "name": "South Africa",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 63015904,
+      "areaKm2": 1221037,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Afrikaans",
+        "English",
+        "Southern Ndebele",
+        "Northern Sotho",
+        "Sotho",
+        "Swazi",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+      ],
+      "currencies": [
+        {
+          "code": "ZAR",
+          "name": "South African rand"
+        }
+      ],
+      "borders": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        24,
+        -29
+      ]
+    },
+    {
+      "iso3": "KOR",
+      "ccn3": "410",
+      "name": "South Korea",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "population": 51106229,
+      "areaKm2": 100210,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Korean"
+      ],
+      "currencies": [
+        {
+          "code": "KRW",
+          "name": "South Korean won"
+        }
+      ],
+      "borders": [
+        "PRK"
+      ],
+      "unMember": true,
+      "lngLat": [
+        127.5,
+        37
+      ]
+    },
+    {
+      "iso3": "SSD",
+      "ccn3": "728",
+      "name": "South Sudan",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 12703714,
+      "areaKm2": 619745,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "SSP",
+          "name": "South Sudanese pound"
+        }
+      ],
+      "borders": [
+        "CAF",
+        "COD",
+        "ETH",
+        "KEN",
+        "SDN",
+        "UGA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        7
+      ]
+    },
+    {
+      "iso3": "ESP",
+      "ccn3": "724",
+      "name": "Spain",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 49801559,
+      "areaKm2": 505992,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish",
+        "Catalan",
+        "Basque",
+        "Galician",
+        "Aranese"
+      ],
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro"
+        }
+      ],
+      "borders": [
+        "AND",
+        "FRA",
+        "GIB",
+        "PRT",
+        "MAR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -4,
+        40
+      ]
+    },
+    {
+      "iso3": "LKA",
+      "ccn3": "144",
+      "name": "Sri Lanka",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "population": 21756000,
+      "areaKm2": 65610,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Sinhala",
+        "Tamil"
+      ],
+      "currencies": [
+        {
+          "code": "LKR",
+          "name": "Sri Lankan rupee"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        81,
+        7
+      ]
+    },
+    {
+      "iso3": "SDN",
+      "ccn3": "729",
+      "name": "Sudan",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 53282719,
+      "areaKm2": 1886068,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "SDG",
+          "name": "Sudanese pound"
+        }
+      ],
+      "borders": [
+        "CAF",
+        "TCD",
+        "EGY",
+        "ERI",
+        "ETH",
+        "LBY",
+        "SSD"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        15
+      ]
+    },
+    {
+      "iso3": "SUR",
+      "ccn3": "740",
+      "name": "Suriname",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 616500,
+      "areaKm2": 163820,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Dutch"
+      ],
+      "currencies": [
+        {
+          "code": "SRD",
+          "name": "Surinamese dollar"
+        }
+      ],
+      "borders": [
+        "BRA",
+        "GUF",
+        "GUY"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -56,
+        4
+      ]
+    },
+    {
+      "iso3": "SWE",
+      "ccn3": "752",
+      "name": "Sweden",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 10613531,
+      "areaKm2": 450295,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Swedish"
+      ],
+      "currencies": [
+        {
+          "code": "SEK",
+          "name": "Swedish krona"
+        }
+      ],
+      "borders": [
+        "FIN",
+        "NOR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        15,
+        62
+      ]
+    },
+    {
+      "iso3": "CHE",
+      "ccn3": "756",
+      "name": "Switzerland",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "population": 9154896,
+      "areaKm2": 41284,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "French",
+        "Swiss German",
+        "Italian",
+        "Romansh"
+      ],
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc"
+        }
+      ],
+      "borders": [
+        "AUT",
+        "FRA",
+        "ITA",
+        "LIE",
+        "DEU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        8,
+        47
+      ]
+    },
+    {
+      "iso3": "SYR",
+      "ccn3": "760",
+      "name": "Syria",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 26472497,
+      "areaKm2": 185180,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "SYP",
+          "name": "Syrian pound"
+        }
+      ],
+      "borders": [
+        "IRQ",
+        "ISR",
+        "JOR",
+        "LBN",
+        "TUR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        38,
+        35
+      ]
+    },
+    {
+      "iso3": "TJK",
+      "ccn3": "762",
+      "name": "Tajikistan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 10721000,
+      "areaKm2": 143100,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Russian",
+        "Tajik"
+      ],
+      "currencies": [
+        {
+          "code": "TJS",
+          "name": "Tajikistani somoni"
+        }
+      ],
+      "borders": [
+        "AFG",
+        "CHN",
+        "KGZ",
+        "UZB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        71,
+        39
+      ]
+    },
+    {
+      "iso3": "TZA",
+      "ccn3": "834",
+      "name": "Tanzania",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 70038850,
+      "areaKm2": 945087,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "currencies": [
+        {
+          "code": "TZS",
+          "name": "Tanzanian shilling"
+        }
+      ],
+      "borders": [
+        "BDI",
+        "COD",
+        "KEN",
+        "MWI",
+        "MOZ",
+        "RWA",
+        "UGA",
+        "ZMB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        35,
+        -6
+      ]
+    },
+    {
+      "iso3": "THA",
+      "ccn3": "764",
+      "name": "Thailand",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 70250751,
+      "areaKm2": 513120,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Thai"
+      ],
+      "currencies": [
+        {
+          "code": "THB",
+          "name": "Thai baht"
+        }
+      ],
+      "borders": [
+        "MMR",
+        "KHM",
+        "LAO",
+        "MYS"
+      ],
+      "unMember": true,
+      "lngLat": [
+        100,
+        15
+      ]
+    },
+    {
+      "iso3": "TLS",
+      "ccn3": "626",
+      "name": "Timor-Leste",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 1409452,
+      "areaKm2": 14874,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "Portuguese",
+        "Tetum"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [
+        "IDN"
+      ],
+      "unMember": true,
+      "lngLat": [
+        125.91666666,
+        -8.83333333
+      ]
+    },
+    {
+      "iso3": "TGO",
+      "ccn3": "768",
+      "name": "Togo",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 8095498,
+      "areaKm2": 56785,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc"
+        }
+      ],
+      "borders": [
+        "BEN",
+        "BFA",
+        "GHA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        1.16666666,
+        8
+      ]
+    },
+    {
+      "iso3": "TON",
+      "ccn3": "776",
+      "name": "Tonga",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 100179,
+      "areaKm2": 747,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Tongan"
+      ],
+      "currencies": [
+        {
+          "code": "TOP",
+          "name": "Tongan paʻanga"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -175,
+        -20
+      ]
+    },
+    {
+      "iso3": "TTO",
+      "ccn3": "780",
+      "name": "Trinidad and Tobago",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "population": 1512779,
+      "areaKm2": 5130,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "TTD",
+          "name": "Trinidad and Tobago dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        -61.2225,
+        10.6918
+      ]
+    },
+    {
+      "iso3": "TUN",
+      "ccn3": "788",
+      "name": "Tunisia",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "population": 11992843,
+      "areaKm2": 163610,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "TND",
+          "name": "Tunisian dinar"
+        }
+      ],
+      "borders": [
+        "DZA",
+        "LBY"
+      ],
+      "unMember": true,
+      "lngLat": [
+        9,
+        34
+      ]
+    },
+    {
+      "iso3": "TUR",
+      "ccn3": "792",
+      "name": "Turkey",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 86092168,
+      "areaKm2": 783562,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Turkish"
+      ],
+      "currencies": [
+        {
+          "code": "TRY",
+          "name": "Turkish lira"
+        }
+      ],
+      "borders": [
+        "ARM",
+        "AZE",
+        "BGR",
+        "GEO",
+        "GRC",
+        "IRN",
+        "IRQ",
+        "SYR"
+      ],
+      "unMember": true,
+      "lngLat": [
+        35,
+        39
+      ]
+    },
+    {
+      "iso3": "TKM",
+      "ccn3": "795",
+      "name": "Turkmenistan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 7057841,
+      "areaKm2": 488100,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Russian",
+        "Turkmen"
+      ],
+      "currencies": [
+        {
+          "code": "TMT",
+          "name": "Turkmenistan manat"
+        }
+      ],
+      "borders": [
+        "AFG",
+        "IRN",
+        "KAZ",
+        "UZB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        60,
+        40
+      ]
+    },
+    {
+      "iso3": "TUV",
+      "ccn3": "798",
+      "name": "Tuvalu",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "population": 10643,
+      "areaKm2": 26,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Tuvaluan"
+      ],
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar"
+        },
+        {
+          "code": "TVD",
+          "name": "Tuvaluan dollar"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        178,
+        -8
+      ]
+    },
+    {
+      "iso3": "UGA",
+      "ccn3": "800",
+      "name": "Uganda",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 45905417,
+      "areaKm2": 241550,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "English",
+        "Swahili"
+      ],
+      "currencies": [
+        {
+          "code": "UGX",
+          "name": "Ugandan shilling"
+        }
+      ],
+      "borders": [
+        "COD",
+        "KEN",
+        "RWA",
+        "SSD",
+        "TZA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        32,
+        1
+      ]
+    },
+    {
+      "iso3": "UKR",
+      "ccn3": "804",
+      "name": "Ukraine",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "population": 28700000,
+      "areaKm2": 603500,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Ukrainian"
+      ],
+      "currencies": [
+        {
+          "code": "UAH",
+          "name": "Ukrainian hryvnia"
+        }
+      ],
+      "borders": [
+        "BLR",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK"
+      ],
+      "unMember": true,
+      "lngLat": [
+        32,
+        49
+      ]
+    },
+    {
+      "iso3": "ARE",
+      "ccn3": "784",
+      "name": "United Arab Emirates",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 11027129,
+      "areaKm2": 83600,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "AED",
+          "name": "United Arab Emirates dirham"
+        }
+      ],
+      "borders": [
+        "OMN",
+        "SAU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        54,
+        24
+      ]
+    },
+    {
+      "iso3": "GBR",
+      "ccn3": "826",
+      "name": "United Kingdom",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 66912637,
+      "areaKm2": 242900,
+      "landlocked": false,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound"
+        }
+      ],
+      "borders": [
+        "IRL"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -2,
+        54
+      ]
+    },
+    {
+      "iso3": "USA",
+      "ccn3": "840",
+      "name": "United States",
+      "region": "Americas",
+      "subregion": "North America",
+      "population": 341784857,
+      "areaKm2": 9372610,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        }
+      ],
+      "borders": [
+        "CAN",
+        "MEX"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -97,
+        38
+      ]
+    },
+    {
+      "iso3": "URY",
+      "ccn3": "858",
+      "name": "Uruguay",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 3480601,
+      "areaKm2": 181034,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "UYU",
+          "name": "Uruguayan peso"
+        }
+      ],
+      "borders": [
+        "ARG",
+        "BRA"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -56,
+        -33
+      ]
+    },
+    {
+      "iso3": "UZB",
+      "ccn3": "860",
+      "name": "Uzbekistan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "population": 39047321,
+      "areaKm2": 447400,
+      "landlocked": true,
+      "drivingSide": "right",
+      "languages": [
+        "Russian",
+        "Uzbek"
+      ],
+      "currencies": [
+        {
+          "code": "UZS",
+          "name": "Uzbekistani soʻm"
+        }
+      ],
+      "borders": [
+        "AFG",
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM"
+      ],
+      "unMember": true,
+      "lngLat": [
+        64,
+        41
+      ]
+    },
+    {
+      "iso3": "VUT",
+      "ccn3": "548",
+      "name": "Vanuatu",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "population": 321409,
+      "areaKm2": 12189,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Bislama",
+        "English",
+        "French"
+      ],
+      "currencies": [
+        {
+          "code": "VUV",
+          "name": "Vanuatu vatu"
+        }
+      ],
+      "borders": [],
+      "unMember": true,
+      "lngLat": [
+        167,
+        -16
+      ]
+    },
+    {
+      "iso3": "VEN",
+      "ccn3": "862",
+      "name": "Venezuela",
+      "region": "Americas",
+      "subregion": "South America",
+      "population": 28633711,
+      "areaKm2": 916445,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Spanish"
+      ],
+      "currencies": [
+        {
+          "code": "VES",
+          "name": "Venezuelan bolívar soberano"
+        }
+      ],
+      "borders": [
+        "BRA",
+        "COL",
+        "GUY"
+      ],
+      "unMember": true,
+      "lngLat": [
+        -66,
+        8
+      ]
+    },
+    {
+      "iso3": "VNM",
+      "ccn3": "704",
+      "name": "Vietnam",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "population": 102300000,
+      "areaKm2": 331212,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Vietnamese"
+      ],
+      "currencies": [
+        {
+          "code": "VND",
+          "name": "Vietnamese đồng"
+        }
+      ],
+      "borders": [
+        "KHM",
+        "CHN",
+        "LAO"
+      ],
+      "unMember": true,
+      "lngLat": [
+        107.83333333,
+        16.16666666
+      ]
+    },
+    {
+      "iso3": "YEM",
+      "ccn3": "887",
+      "name": "Yemen",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "population": 32684503,
+      "areaKm2": 527968,
+      "landlocked": false,
+      "drivingSide": "right",
+      "languages": [
+        "Arabic"
+      ],
+      "currencies": [
+        {
+          "code": "YER",
+          "name": "Yemeni rial"
+        }
+      ],
+      "borders": [
+        "OMN",
+        "SAU"
+      ],
+      "unMember": true,
+      "lngLat": [
+        48,
+        15
+      ]
+    },
+    {
+      "iso3": "ZMB",
+      "ccn3": "894",
+      "name": "Zambia",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "population": 23003214,
+      "areaKm2": 752612,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "English"
+      ],
+      "currencies": [
+        {
+          "code": "ZMW",
+          "name": "Zambian kwacha"
+        }
+      ],
+      "borders": [
+        "AGO",
+        "BWA",
+        "COD",
+        "MWI",
+        "MOZ",
+        "NAM",
+        "TZA",
+        "ZWE"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        -15
+      ]
+    },
+    {
+      "iso3": "ZWE",
+      "ccn3": "716",
+      "name": "Zimbabwe",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "population": 17073087,
+      "areaKm2": 390757,
+      "landlocked": true,
+      "drivingSide": "left",
+      "languages": [
+        "Barwe",
+        "English",
+        "Kalanga",
+        "Khoisan languages",
+        "Ndau",
+        "Northern Ndebele",
+        "Chichewa",
+        "Shona",
+        "Sotho",
+        "Tonga (Zambia)",
+        "Tswana",
+        "Tsonga",
+        "Venda",
+        "Xhosa",
+        "Zimbabwean Sign Language"
+      ],
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar"
+        },
+        {
+          "code": "ZWG",
+          "name": "Zimbabwe Gold"
+        }
+      ],
+      "borders": [
+        "BWA",
+        "MOZ",
+        "ZAF",
+        "ZMB"
+      ],
+      "unMember": true,
+      "lngLat": [
+        30,
+        -20
+      ]
+    }
+  ]
+}

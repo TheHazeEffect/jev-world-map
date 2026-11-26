@@ -1,0 +1,220 @@
+/* ---------------------------------------------------------------------------
+   Design tokens. Every colour on the page and the map comes from here, so
+   light and dark mode are a single block each.
+--------------------------------------------------------------------------- */
+:root {
+  --bg: #f6f6f3;
+  --surface: #ffffff;
+  --surface-2: #f0efeb;
+  --text: #18181b;
+  --muted: #6b6b72;
+  --border: #e3e2dd;
+  --accent: #3451d1;
+  --accent-contrast: #ffffff;
+
+  /* Map states */
+  --c-true: #3451d1;
+  --c-false: #b9bcc3;
+  --c-unsure-bg: #e4e9fb;
+  --c-idle: #e2e1dc;
+  --c-nodata: #efeeea;
+  --c-error: #d9480f;
+  --c-border: #ffffff;
+
+  --radius: 12px;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.04), 0 4px 16px rgb(0 0 0 / 0.04);
+  --font: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1012;
+    --surface: #17181b;
+    --surface-2: #1f2024;
+    --text: #ececef;
+    --muted: #9a9aa3;
+    --border: #2a2b30;
+    --accent: #7c93ff;
+    --accent-contrast: #0f1012;
+
+    --c-true: #7c93ff;
+    --c-false: #4a4d55;
+    --c-unsure-bg: #232843;
+    --c-idle: #2b2c31;
+    --c-nodata: #1e1f23;
+    --c-error: #ff8a5c;
+    --c-border: #17181b;
+
+    --shadow: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Page layout
+--------------------------------------------------------------------------- */
+* { box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  max-width: 1240px;
+  padding: 24px 16px 48px;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.5 var(--font);
+  -webkit-font-smoothing: antialiased;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  letter-spacing: -0.02em;
+}
+.tagline { margin: 4px 0 16px; color: var(--muted); }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+  margin-top: 16px;
+}
+@media (min-width: 960px) {
+  .layout.has-sidebar { grid-template-columns: minmax(0, 1fr) 300px; }
+}
+
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0);
+}
+
+/* ---------------------------------------------------------------------------
+   Prompt bar
+--------------------------------------------------------------------------- */
+.prompt { padding: 12px; }
+.prompt-row { display: flex; gap: 8px; }
+
+.prompt input[type='text'] {
+  flex: 1;
+  min-width: 0;
+  padding: 10px 12px;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.prompt input[type='text']:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+
+.button-primary {
+  padding: 10px 20px;
+  font: inherit;
+  font-weight: 600;
+  color: var(--accent-contrast);
+  background: var(--accent);
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.button-primary:disabled { opacity: 0.5; cursor: progress; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.chip {
+  padding: 4px 10px;
+  font: inherit;
+  font-size: 0.85rem;
+  color: var(--text);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.chip:hover { border-color: var(--accent); }
+
+/* ---------------------------------------------------------------------------
+   Map
+--------------------------------------------------------------------------- */
+.map-card { padding: 12px; }
+.map { position: relative; }
+.map svg { display: block; width: 100%; height: auto; }
+
+.country {
+  fill: var(--c-idle);
+  stroke: var(--c-border);
+  stroke-width: 0.5;
+  transition: fill 200ms ease, fill-opacity 200ms ease;
+}
+.country.no-data { fill: var(--c-nodata); }
+.country.pending { animation: pulse 1.2s ease-in-out infinite; }
+.country.true { fill: var(--c-true); } /* fill-opacity is set per country from the probability */
+.country.false { fill: var(--c-false); }
+.country.unsure { fill: url(#hatch); stroke: var(--c-true); stroke-width: 0.8; }
+.country.error { fill: var(--c-idle); stroke: var(--c-error); stroke-width: 1; stroke-dasharray: 2 1.5; }
+
+/* Small countries drawn as dots get a visible outline so they stand out. */
+.country.dot { stroke: var(--muted); stroke-width: 0.5; }
+
+.country:not(.no-data):hover { stroke: var(--text); stroke-width: 1.2; }
+
+.hatch-bg { fill: var(--c-unsure-bg); }
+.hatch-line { stroke: var(--c-true); stroke-width: 2; }
+
+@keyframes pulse {
+  50% { fill-opacity: 0.45; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .country.pending { animation: none; }
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  margin: 8px 4px 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.legend li { display: flex; align-items: center; gap: 6px; }
+.swatch { width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--border); }
+.swatch-true { background: linear-gradient(90deg, color-mix(in srgb, var(--c-true) 35%, transparent), var(--c-true)); }
+.swatch-false { background: var(--c-false); }
+.swatch-unsure {
+  background: repeating-linear-gradient(45deg, var(--c-unsure-bg) 0 3px, var(--c-true) 3px 5px);
+  border-color: var(--c-true);
+}
+.swatch-idle { background: var(--c-idle); }
+.swatch-error { background: var(--c-idle); border: 1px dashed var(--c-error); }
+
+.run-status {
+  margin: 8px 4px 0;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.run-status.error { color: var(--c-error); }
+
+/* ---------------------------------------------------------------------------
+   Tooltip
+--------------------------------------------------------------------------- */
+.tooltip {
+  position: fixed;
+  z-index: 10;
+  max-width: 240px;
+  padding: 8px 10px;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgb(0 0 0 / 0.12);
+  pointer-events: none;
+}
+.tooltip strong { display: block; margin-bottom: 2px; }
+.tooltip .meta { color: var(--muted); font-family: var(--mono); font-size: 0.78rem; }

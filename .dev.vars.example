@@ -1,0 +1,11 @@
+# Copy to .dev.vars (git-ignored) for `wrangler dev`.
+# For production, set the two secrets with `wrangler secret put <NAME>`.
+
+# Cloudflare account ID: dashboard → Workers & Pages → right-hand sidebar.
+CLOUDFLARE_ACCOUNT_ID=your-account-id
+
+# API token with the "Workers AI: Read" permission (Workers AI template works).
+CLOUDFLARE_API_TOKEN=your-api-token
+
+# true = fake answers, no credentials needed.
+MOCK_JEV=true
